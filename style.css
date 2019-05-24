@@ -1,0 +1,72 @@
+/* MADE BY DriFt Ragnarok
+  DO NOT REDISTRIBUTE WITHOUT MY PERMISSION
+  I HAVE COMMENTS IF YOU WANT TO CHANGE SOMETHING 
+  BUT I CAN NOT HELP YOU IF YOU BREAK SOMETHING */
+
+body{
+
+    /* CHANGE THE BACKGROUND TO WHATEVER YOU WANT */
+    /* YOU CAN ALSO USE THE IMAGE IF YOU KNOW HOW TO */
+
+    font-family: Arial, Helvetica, sans-serif;
+    font:bold;
+}
+
+#text{
+    text-align: center;
+}
+
+#logo h1{
+    font-size: 50px;
+}
+
+#text h3{
+    font-size: 35px;
+}
+
+/*
+#rules{
+    width: 50%;
+    margin-left:20px;
+    margin-right:1700px;
+    height:500px;
+    font-size:20px;
+    background:gray;
+    color:white;
+    text-align: center;
+    color:red;
+}
+*/
+
+
+#content{
+    width: 50%;
+    margin-left:930px;
+    margin-top:-523px;
+    height:500px;
+    font-size:20px;
+    background:gray;
+    color:white;
+    text-align: center;
+    color:red;
+}
+
+#line hr{
+    height:10px;
+}
+
+#logo1{
+    margin-left:48%;
+}
+
+#logo h1{
+    text-align:center;
+}
+
+#logo{
+    margin-top:-925px;
+}
+
+#pic{
+    margin:-8px;
+}
