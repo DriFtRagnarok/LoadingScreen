@@ -13,7 +13,7 @@ Background Image by Jack from SADoL, my server
 
 -OPTIONAL-
 
-1. Put a new background image. Be sure to name it "server.jpg" and have the sive be 1920 x 937
+1. Put a new background image. Be sure to name it "server.jpg" and have the sive be 1920 x 1080
 2. Change the logo. Make sure the image is 96x96 and named "servericon.png"
 
 Thank you,
